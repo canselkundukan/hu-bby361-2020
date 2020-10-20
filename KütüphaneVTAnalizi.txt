@@ -1,0 +1,36 @@
+Kütüphane Veri Tabanı Analizi
+
+1.Hayata geçirilecek sistem neye hizmet edecek?
+ Sistem psikoloji alanında var olan kitaplarının olduğu bir dernek kütüphanesinin katalog veri tabanıdır. 
+ 
+2.Veri tabanı hangi ihtiyaçları karşılayacak?
+#Veri tabanı kitabın künye bilgilerini sunacaktır. 
+#Psikoloji alanındaki kitabın basım yılı önemli olacağından. Basım yılı bilgisini sunacaktır. 
+#Yazar bilgisini sunacaktır. 
+#Yayınevi bilgilerini sunacaktır.
+
+3.Veri tabanında hangi veriler depolanacak?
+#Kitaba ait veriler depolanacak.
+#Yazara ait veriler depolanacak.
+#yayınevi ve basım yılına ait veriler depoalanacak. 
+
+4.Veri tabanında ne tür veriler depolanacak?
+#kitaba ait bilgiler;
+ _Kitabın adı
+ _Kitabın ISBN 
+ _Yazarın adı
+ _Basım yılı
+ _Yayınevi
+ _Dil
+ 
+#yazara ait bilgiler;
+ _Yazarın adı
+ _Yazarın soyadı
+ _Yazara ait numara 
+ 
+#yayınevi bilgisi;
+ _Yayınevinin ismi 
+ _Yayınevine ait numara 
+ _yayınevinin olduğu şehir ait veriler depolanacaktır. 
+ 
+ 
