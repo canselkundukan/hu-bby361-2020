@@ -31,6 +31,6 @@ Kütüphane Veri Tabanı Analizi
 #yayınevi bilgisi;
  _Yayınevinin ismi 
  _Yayınevine ait numara 
- _yayınevinin olduğu şehir ait veriler depolanacaktır. 
+ _yayınevinin olduğu şehire ait veriler depolanacaktır. 
  
  
