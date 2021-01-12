@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap');
+*{
+    text-align: center;
+    box-sizing: border-box;
+    margin: auto;
+    font-family: 'Baloo Bhaina 2', cursive;
+    color:black;
+	font-weight: bold;
+    
+
+}
+
+
+
+
+a{
+    text-decoration: none;
+    color: #26335E;
+}
+
+
+#alti a{
+    background-color: #4D7285;
+    padding: 8px;
+	padding-left: 12px;
+    border-radius: 10px;
+    margin-left: 8px;
+    color: white;
+    text-decoration: none;
+	
+	
+}
+ a:hover{
+    color:whitesmoke;
+	background-color: #4D7285;
+}
+#alti a:hover{
+	color:whitesmoke;
+	background-color:#608FA6;
+}
+#alti {
+	padding: 2%;
+}
+
+
+#arkaplan_video{
+    position: fixed;
+    right:0;
+    bottom: 0;
+    z-index: -100;
+    min-height: 100%;
+    max-width: 100%; 
+	;
+}
+
+#b{
+  color:white;
+  text-decoration:underline;
+}
+
+h1{
+	color: white;
+	letter-spacing: 4px;
+	font-size: 40;
+}
+
+#baslik {
+	margin-top: 10%;
+	padding:10px;
+	color:black;
+	width: 40%;
+	background:rgba(255,255,255,0.7);
+	border: 6px double black;
+}
+
+#baslik p{
+	font-size:20;
+}
+
+h2{
+	font-size:25;
+	letter-spacing: 3px;
+	color: white;
+}
+
+h3{
+	font-size:32;
+	letter-spacing: 4px;
+	
+}
